@@ -1,5 +1,4 @@
 # Rudra-demo
 This is my first Git Repository.
 <br>
-Author - Rudra - edit
-
+Author - Rudra Teja
